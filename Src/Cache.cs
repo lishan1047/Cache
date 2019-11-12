@@ -256,7 +256,7 @@ namespace eIvy.Common
         private string _compareValueKey;
 
         /// <summary>
-        /// 获得依赖此缓存国企策略的缓存项的键名。
+        /// 获得依赖此缓存过期策略的缓存项的键名。
         /// </summary>
         public string Key
         {
